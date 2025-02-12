@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Diego
  
  <div>
-   <a href="https://github.com/DiegoTib">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoTib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoTib&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/dev-diegocoelho">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-diegocoelho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-diegocoelho&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
